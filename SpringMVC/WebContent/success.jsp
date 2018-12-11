@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<h2>User exists.</h2>
-
+<h2>User details successfully entered into database.</h2>
 </body>
 </html>

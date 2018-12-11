@@ -8,7 +8,5 @@
 </head>
 <body>
 
-<h2>User exists.</h2>
-
 </body>
 </html>
